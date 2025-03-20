@@ -26,6 +26,10 @@ The vision of this project is to create a decentralized marketplace for digital 
 Contract Address : 0xf1cc482248d4762a38e3e682524383389d5e0ca0
 
 
-![image](https://github.com/user-attachments/assets/ea6439d0-27b6-497e-8ad6-1ad103801dc0)
+
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/702e239b-f6be-4484-925a-bda682360941" />
+
+
 
 
